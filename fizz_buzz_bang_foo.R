@@ -85,7 +85,7 @@ df1 = myfun2(df = df1, yes = c(5,7), no = c(3,4), replace = 'Buzz Foo')
 df1 = myfun2(df = df1, yes = c(3), no = c(4,5,7), replace = 'Fizz')
 df1 = myfun2(df = df1, yes = c(5), no = c(3,4,7), replace = 'Buzz')
 df1 = myfun2(df = df1, yes = c(4), no = c(3,5,7), replace = 'Bang')
-df1 = myfun2(df = df1, yes = c(7), no = c(3,4,5), replace = 'Bang')
+df1 = myfun2(df = df1, yes = c(7), no = c(3,4,5), replace = 'Foo')
 
 #---------------------------------
 # check any missing values in df1$res
